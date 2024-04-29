@@ -1,0 +1,5 @@
+"google-generativeai"
+openai==1.21.2
+pillow==10.3.0
+requests==2.31.0
+pandas==2.2.2
